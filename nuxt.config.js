@@ -1,5 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+
+  buildDir: 'disc',
   head: {
     title: 'dany',
     htmlAttrs: {
